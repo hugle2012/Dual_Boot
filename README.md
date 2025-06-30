@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7df37595-e237-4237-979d-415402bcd326)![image](https://github.com/user-attachments/assets/4538d663-d8f6-429e-8a59-42cbe31797f2)![image](https://github.com/user-attachments/assets/6bce2941-30b0-420d-b82f-845cf00ede9b)# Dual_Boot
+# Dual_Boot
 How did I safely quarantine my OS.
 
 Firstly, I must tell that is just one of ways that you can dual-boot your computer, if you has any other faster or cleaner way, please tell me via: https://www.facebook.com/lil.haize
